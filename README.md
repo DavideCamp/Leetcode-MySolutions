@@ -47,16 +47,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0226-invert-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0226-invert-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0226-invert-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0226-invert-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
