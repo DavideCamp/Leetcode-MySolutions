@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0792-binary-search](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1603-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1929-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/2350-find-closest-number-to-zero) |
 ## Prefix Sum
 |  |
@@ -63,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0226-invert-binary-tree](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0226-invert-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
