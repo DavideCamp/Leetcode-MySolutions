@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0792-binary-search) |
+| [1470-shuffle-the-array](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1470-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1929-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/2350-find-closest-number-to-zero) |
