@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1929-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/2350-find-closest-number-to-zero) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,5 +87,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3713-longest-balanced-substring-i) |
+## Sorting
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
