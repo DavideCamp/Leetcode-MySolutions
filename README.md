@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0013-roman-to-integer) |
+| [3713-longest-balanced-substring-i](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0013-roman-to-integer) |
 | [1894-merge-strings-alternately](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1894-merge-strings-alternately) |
+| [3713-longest-balanced-substring-i](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
