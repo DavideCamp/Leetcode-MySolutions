@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0013-roman-to-integer) |
 | [1894-merge-strings-alternately](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
@@ -71,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1929-concatenation-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
