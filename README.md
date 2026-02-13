@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1603-running-sum-of-1d-array) |
+| [3714-longest-balanced-substring-ii](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0013-roman-to-integer) |
 | [3713-longest-balanced-substring-i](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/0013-roman-to-integer) |
 | [1894-merge-strings-alternately](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/1894-merge-strings-alternately) |
 | [3713-longest-balanced-substring-i](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/DavideCamp/Leetcode-MySolutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Two Pointers
 |  |
 | ------- |
